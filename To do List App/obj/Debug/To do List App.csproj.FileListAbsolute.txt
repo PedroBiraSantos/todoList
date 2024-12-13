@@ -1,0 +1,10 @@
+C:\Users\pedro\source\repos\To do List App\To do List App\bin\Debug\To do List App.exe.config
+C:\Users\pedro\source\repos\To do List App\To do List App\bin\Debug\To do List App.exe
+C:\Users\pedro\source\repos\To do List App\To do List App\bin\Debug\To do List App.pdb
+C:\Users\pedro\source\repos\To do List App\To do List App\obj\Debug\To do List App.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\To do List App\To do List App\obj\Debug\To_do_List_App.ToDoList.resources
+C:\Users\pedro\source\repos\To do List App\To do List App\obj\Debug\To_do_List_App.Properties.Resources.resources
+C:\Users\pedro\source\repos\To do List App\To do List App\obj\Debug\To do List App.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\To do List App\To do List App\obj\Debug\To do List App.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\To do List App\To do List App\obj\Debug\To do List App.exe
+C:\Users\pedro\source\repos\To do List App\To do List App\obj\Debug\To do List App.pdb
